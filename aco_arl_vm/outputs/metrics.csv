@@ -1,0 +1,7 @@
+Scheduler,Migration Time (ms),Resource Availability,Total Energy (W),System Load,Average Response Time,Throughput (tasks/ms)
+Random,20,0.82,0.45,0.008,200,1.5
+RR,18,0.85,0.42,0.009,180,1.3
+LPT,22,0.80,0.44,0.007,150,2.0
+IRR,25,0.78,0.43,0.010,170,1.1
+FCFS,30,0.76,0.46,0.012,300,0.9
+ARL-ACO,15,0.90,0.40,0.004,140,1.8
